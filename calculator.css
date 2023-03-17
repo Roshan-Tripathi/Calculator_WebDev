@@ -1,0 +1,82 @@
+body{
+    background-color: gray;
+}
+.divcal{
+    display: grid;
+    grid-template-rows: 500px;
+    grid-template-columns: 700px 600px;
+    width: 600px;
+    height: 700px;
+    background-color: pink;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 4px;
+}
+.display{
+    background-color: white;
+    width: 598px;
+    height: 70px;
+    position: relative; bottom: 130px;
+    border-style: solid;
+    text-align: center;
+}
+.dis{
+    font-size: 40px;
+    text-align: end;
+}
+.bt{
+    width: 150px;
+    height: 100px;
+    border-style: solid;
+    border-color: black;
+    font-size: 40px;
+}
+.allbtn{
+    position: relative;top: 128px;
+}
+#bro{
+    background-color: rgb(10, 223, 10);
+}
+#brc{
+    background-color: rgb(10, 223, 10);
+}
+#bdiv{
+    background-color: rgb(10, 223, 10);
+}
+#bpow{
+    background-color: rgb(10, 223, 10);
+}
+#bmulti{
+    background-color: rgb(10, 223, 10);
+}
+#bminus{
+    background-color: rgb(10, 223, 10);
+}
+#bplus{
+    background-color: rgb(10, 223, 10);
+}
+#equal{
+    background-color: yellow;
+}
+#clear{
+    color: black;
+    background-color: red;
+}
+#b1{background-color: rgb(40, 203, 244);}
+#b2{background-color: rgb(40, 203, 244);}
+#b3{background-color: rgb(40, 203, 244);}
+#b4{background-color: rgb(40, 203, 244);}
+#b5{background-color: rgb(40, 203, 244);}
+#b6{background-color: rgb(40, 203, 244);}
+#b7{background-color: rgb(40, 203, 244);}
+#b8{background-color: rgb(40, 203, 244);}
+#b9{background-color: rgb(40, 203, 244);}
+#zero{background-color: rgb(40, 203, 244);}
+#dot{background-color: rgb(40, 203, 244);}
+
+.maths{
+    position: relative;right: 40px;top: 50px;
+    width: 600px;
+}
